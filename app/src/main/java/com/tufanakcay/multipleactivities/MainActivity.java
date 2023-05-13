@@ -9,7 +9,6 @@ import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
 
-
     String userName;
     EditText editText;
 
