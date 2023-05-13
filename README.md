@@ -1,2 +1,2 @@
-# MultipleActivities
+# Multiple Activities
  Multiple Activities
